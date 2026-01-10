@@ -9,3 +9,9 @@
 
 # Datasets 
 IUTVanguard/PhysicsEval : https://huggingface.co/datasets/IUTVanguard/PhysicsEval
+
+
+# Evaluation Model Providers
+  Annanas : https://anannas.ai/models 
+
+  Openrouter : https://openrouter.ai/models
