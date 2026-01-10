@@ -1,0 +1,4722 @@
+[
+  {
+    "problem_id": "010e7e8d-e9e0-4c65-a51b-9a906b13b160",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 4,
+    "completeness": 2,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 3,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "812b76e0-1233-4840-ac99-ff448e2aefde",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "b1d9aca6-5e09-48c3-85e3-a796c7fd0e90",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 2,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "5ae3f3f6-82a1-40cf-8887-ca0c76724f8c",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "c2b9f498-d673-4429-85e9-8bbbc0c8fcb0",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "451dcaf9-3155-465a-ba7b-373fad376519",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "e8ccd00e-8ac7-4897-8a06-5ce6a3a80310",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "11f9aec0-350e-4a48-b44c-a5f46d3250f1",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 5,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 8
+  },
+  {
+    "problem_id": "c69e51f9-e9f4-4a4e-9c22-f6b554b26c88",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "e28a2684-16e8-4fa0-8639-120fde9979a2",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 9
+  },
+  {
+    "problem_id": "413fbab6-c29a-44bb-a363-d4dcae992d0d",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 4,
+    "completeness": 2,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 4,
+    "assumptions_made": 3,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "0b2c6ef2-aafc-498b-b24c-f042be826129",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "75205274-594c-4f67-b7b1-605e421870bd",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 4,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "45f145fe-2039-41a6-8943-191d3ffdeba9",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "7230a37a-40f7-4195-8308-8a0bd27232da",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 4,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 4,
+    "assumptions_made": 3,
+    "overall_correctness": 7
+  },
+  {
+    "problem_id": "00aa302f-ec00-4418-8279-37c75d7f548e",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "116d1530-4091-4648-a7da-1ceebf535a60",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "34e33b53-42f9-4479-b6a4-46ca2488af11",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 4,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 4,
+    "assumptions_made": 4,
+    "overall_correctness": 8
+  },
+  {
+    "problem_id": "c5db553e-e662-4aaa-b5a7-ec76c43db0e0",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "20909e3c-d2e2-4a71-a0c3-2cd36ba8ff07",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "6f68778a-6c06-48e8-b49a-9633d157b496",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "1938aa94-b708-42eb-975d-c88db16d6f2f",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "721eafd9-24bf-4d2d-a83e-6345bf428e3f",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "510551e8-4433-47c4-8e80-76e5be37f553",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 1,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "a095a0c7-f050-467c-b8a1-a892523e50c6",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 2,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "2e5511c3-3b19-439f-b9c6-eaca5a3403e9",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 3,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "d6ec84fe-113e-4266-8ae4-9f361d366826",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "b2a4a050-11ba-4855-9f0b-19f6d0b1f6a7",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "2f82bc44-b95f-48fb-8239-5482a7b5a9a6",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "66e873dc-6304-4c5b-af90-04286f2e86fe",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 3,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 5
+  },
+  {
+    "problem_id": "70339a4c-9f3e-41b9-bc8a-e4f29c93d36a",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 4,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "af1ac981-27d6-4096-a5a5-8dc70ba79f88",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "b0325ff6-d2fa-4a98-9707-6dbddb934421",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "891ecdbe-fbcc-4e26-ab78-a5f436480537",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 2,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "5ce615bf-aecd-4534-b75a-e8fb511981ec",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "4d7cff46-2f68-4185-b2bf-b1111d1bb115",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "908fbbfc-e529-42f0-a443-b625ac32082a",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 4,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 4,
+    "assumptions_made": 4,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "7ffa88a4-035a-448a-854a-9d9d7f2d486f",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 9
+  },
+  {
+    "problem_id": "f37b14d4-54c3-4643-ad9a-7ea5793c816b",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 4,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 4,
+    "assumptions_made": 5,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "5ec38bf0-a616-4bee-8025-468955c32450",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 4,
+    "assumptions_made": 3,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "a5a01a5e-7b56-42aa-9d7f-53b97757f5ba",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "686b8aee-6ffb-469a-8ef9-7d0fa018c139",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "fe0c8d36-d447-40bc-bbaf-7cb976d674e4",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 9
+  },
+  {
+    "problem_id": "f84227e7-b97d-45a5-aa11-bc330871b1de",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 4,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 3,
+    "overall_correctness": 5
+  },
+  {
+    "problem_id": "b0d3d973-5e74-4b1b-bda7-db12ee8ffe29",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 4,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 4,
+    "assumptions_made": 5,
+    "overall_correctness": 8
+  },
+  {
+    "problem_id": "02c292fa-7dd5-4974-87b7-2e05ef826a97",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "b878e3e6-52e3-434d-b01e-15a0a3fb2834",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "78067157-7fdc-4b59-9e67-90a0bbd5c9f2",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "65f83423-7c63-478f-bff3-efeb055eba95",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 4,
+    "completeness": 5,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 4,
+    "assumptions_made": 4,
+    "overall_correctness": 8
+  },
+  {
+    "problem_id": "260377b3-f4f5-404d-a6d5-08ac84b18737",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "975a08b3-32e2-4028-9153-cc00225b12db",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 2,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "4a4732cd-3847-4103-aca9-93f58d981986",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 4,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 5,
+    "assumptions_made": 4,
+    "overall_correctness": 7
+  },
+  {
+    "problem_id": "35b1776b-e76b-47e7-9443-9511347731d6",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "5fbb5382-8ddd-406b-be69-c9f5fad14983",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "dadc5500-9066-4466-a676-f971ff733f8b",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "c76dfcaa-02d3-4b0c-a346-c3154e0b5250",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 3,
+    "completeness": 2,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "bad3c250-558a-4edf-bf47-9d15c590e0a8",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "d4a0c5b1-96b3-4bea-a59c-cdae088ebf2f",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "890a9049-77ca-42a2-9398-2603d3bb42a5",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 2,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "f233f760-d859-45e5-89e6-d5136b307cd7",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "9387d458-06ae-4a51-8fbd-c0ec8f5274a4",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 4,
+    "assumptions_made": 4,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "2c07d3f3-ccf2-4408-bf3b-98d3fc8fada0",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "04c187de-9843-4028-8d31-5959e7ef0c18",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "3d95312c-7c89-4200-8fed-f96c3caa5b52",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "faab6b6a-78d1-4fa4-9f1f-1f36759aa427",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "ba515d25-cde8-4795-b607-a94e31badba7",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 2,
+    "completeness": 4,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "0901ba0f-3fcf-436c-b476-3bbcdbbc9658",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "b20351a5-020a-4ecb-b28b-6f03a321f3ac",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "b81984c7-9f94-4a00-be4d-6e0f50f967a0",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "45141558-b5b6-4b15-8a34-2cb6ff72c9da",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "8d51c132-807e-4c79-97d7-ee44a1fdbc6c",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "c819dcbe-d3d1-4cda-82bd-091169641444",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 3,
+    "assumptions_made": 3,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "2f016163-e662-4457-a0a0-73aa481f7488",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "2149c11f-6030-4421-8328-b103c6b16608",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "200cc31d-2163-4d69-8844-857e7d850d27",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "2a59c71e-0468-4c54-aa59-cd365d94ac4c",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 1,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "654f7da8-ae7d-46fc-bf7c-89b40a573821",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "0ff1f380-f546-4243-83fd-08e8cd4fe642",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "cc5cdb60-87ac-40b4-b427-fb7a65313b1f",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "46cdbb7c-fe1a-439f-b133-a6a67d2d28f9",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 4,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 4,
+    "overall_correctness": 9
+  },
+  {
+    "problem_id": "2d3f19b9-5223-4fb5-9995-9a9dc439feef",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "426cef18-8808-4841-8d46-cd621ddd7be6",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "63aaccc4-075f-4bc7-82af-c72410718bf7",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 3,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 4,
+    "overall_correctness": 5
+  },
+  {
+    "problem_id": "70d34f77-46ef-4cd2-9f54-324dd1c2c6d0",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "58219298-25d0-4f89-add6-462934927da1",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "246b8a35-c6ad-4bed-ad14-724139f35de2",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "6927f5c9-40e8-42c3-b38e-b50234a4983c",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "0b75bdb9-6d7e-4f54-af61-f9699d5040a3",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 9
+  },
+  {
+    "problem_id": "234a64cd-6837-42d5-947a-a23394f69dec",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 1,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "a90467f4-dc01-4672-b5a3-25b6f83f16c7",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "42df5b6d-16b8-426f-a1df-9b9676de42ca",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "c666bc20-3bd3-4aa2-a779-22eed21ede9b",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "40f14210-0078-4097-bcbe-be0d2ce0bd46",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "4110fbff-6a73-4754-84d9-b2a50bc7d0a3",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 9
+  },
+  {
+    "problem_id": "b7693d42-e13c-452c-9334-8a2b2b96b56b",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 3,
+    "completeness": 2,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "ef5aa16b-9ced-4307-83f0-6eecc91b28a8",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 5,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 4,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "5d6de24c-5f2a-40af-add8-43aab98d7515",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 3,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "133a1a07-4daf-4ab7-9fb6-a0951169bb9a",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 4,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 4,
+    "assumptions_made": 3,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "a4443d7b-2121-40db-94c3-5de3c12c7085",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "f3a8bcac-77c0-456c-b4e5-200fbdcdc799",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "1136a121-d407-48c1-9f96-aca0bcb8e4ea",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "f8761811-0a6a-4ed6-a7af-d22a5f816b70",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 4,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 5,
+    "assumptions_made": 4,
+    "overall_correctness": 8
+  },
+  {
+    "problem_id": "de80641d-9b66-4881-8d35-72fbe38f9d36",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 5,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 5,
+    "assumptions_made": 4,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "32ae63d9-9e1b-4ca6-8ca5-cdf45354256a",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "ec37475a-1c2c-477c-a8d1-850fab417a07",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 1,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "dce5e5ea-afe0-4db6-9a9d-260f43e97207",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 1,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 0
+  },
+  {
+    "problem_id": "192b85ee-988d-443f-a018-60ff24e26456",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "25f4ff7e-6023-4ee1-be1f-c10aaf74c573",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "f365d944-f781-44a9-a08e-78385fb8123b",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 4,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 5,
+    "assumptions_made": 4,
+    "overall_correctness": 7
+  },
+  {
+    "problem_id": "b840fa97-0f11-4a10-a5c2-e3dfd843a1ec",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "54b8686c-e067-4c04-86d4-4688d289f745",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 9
+  },
+  {
+    "problem_id": "f912ea96-06b4-4e4a-beac-6c6f99a92c0e",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "bea80432-6fab-4bce-93ec-742225331963",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 3,
+    "completeness": 2,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 1,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "e9eb0b83-7cf3-4810-a65e-ef0c41f7e94b",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 3,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 4,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "9f780b69-3715-4df6-81f8-f6c1e7a255e8",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "f5e5ab68-2cc9-461e-b864-9d60c0555310",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 2,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "a93fee1d-7a54-4b75-ab63-757adb565a3b",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "6ae32f03-1509-42b0-bf27-da793d242c36",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "be788abd-ba46-48f5-8d6e-7505c93fdd07",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 9
+  },
+  {
+    "problem_id": "37c5023b-8724-4923-a6fb-7abd9a0dca95",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "22c546c7-0c15-42da-8a7a-5a718897c5da",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "678876e9-0afa-49ef-b8e7-eef51c97efb5",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "835a2784-e29b-4d14-b6b2-8aef7d27554f",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "6d67c30d-3166-4499-a74c-e7d894a60ff6",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "e0213b7d-5135-43e5-8a0a-d9571a295200",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "21bea5d6-8dfa-4c2e-be51-406ea02fe374",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 1,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 0
+  },
+  {
+    "problem_id": "332b75b2-4e0d-418a-b228-f02d46583e10",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 1,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "d80c1e0e-e528-4247-bb77-af75db23a094",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 9
+  },
+  {
+    "problem_id": "aa863b33-7113-494d-b8e2-9e96948e6743",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 1,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "8fe57175-c0bd-4f73-8293-9d595d1ffa4a",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "6889723b-ab68-4140-89be-05337b22acdc",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 1,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "b0aee500-f61a-4ac3-913e-7421c6dbfcd9",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "3872f163-1ae6-4592-95d8-d0f2c8bb791d",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "9f6f4630-a697-4d7b-b3f3-92108ae22bcb",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "8e22f7c4-5130-4816-bafa-fa851538983c",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 4,
+    "overall_correctness": 9
+  },
+  {
+    "problem_id": "270defbb-bc8c-46f5-974a-74e34495b7c9",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "f1854720-1bc0-4e08-a1db-fb582e9ccec8",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "9e9bb0cb-7455-4f6c-8573-f11c41850c25",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 4,
+    "overall_correctness": 9
+  },
+  {
+    "problem_id": "341682bf-d340-43bb-acfd-49ed58fd6464",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 4,
+    "completeness": 5,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 4,
+    "assumptions_made": 4,
+    "overall_correctness": 9
+  },
+  {
+    "problem_id": "cb14110a-ec31-4f9c-af20-8ca77dd926a6",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "e99aa1ab-a3eb-479c-98c3-84bf404ff23e",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "e97be48e-cef2-4032-a108-5a296c800dce",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "36dc0676-7416-49e5-9fb5-06d861c86037",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 4,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 5
+  },
+  {
+    "problem_id": "ca138d00-f258-4a09-acf7-e18f887e241e",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "95cc9652-3776-4902-8f8f-4cb2316b0e53",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "2cc7de45-cb62-4ef5-a4b0-790edf690e2f",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "06dd59de-5242-401f-8639-51bcdb2c9425",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "1dc56dc8-b4d5-4555-b95b-44001a265f93",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "7379d9e6-f71a-4950-8663-5f7ee54ab908",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "14415fc9-2a54-4f8e-8c72-ba64635115e7",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "64118d38-f137-4943-b1d3-4a916de559bb",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 3,
+    "assumptions_made": 4,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "32ac8de0-8188-407f-8a42-1b2bae02737f",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "f4f7ee61-ed41-4c45-82db-37602fc32b1b",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "16d5ae48-250c-4e14-9940-cd91f7ffd59b",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 5,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "c727a7f7-501e-4f44-bb37-808df69b7728",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 1,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 0
+  },
+  {
+    "problem_id": "067786b4-9ec6-4566-9e11-b403dc77717c",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "fb093623-436d-4eac-bdc2-546a8a56c218",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "f1fcb877-8d90-4f7c-b64f-b33633dd7bd2",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "95e3bc41-da62-4495-a498-48acbb32e4b0",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "230bb1f2-d3c5-4ff7-8aa9-18a6a6ab4019",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "9474ddb2-83eb-4312-b3d5-3ae2ceb53a3e",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 4,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 4,
+    "assumptions_made": 4,
+    "overall_correctness": 8
+  },
+  {
+    "problem_id": "bd21f158-7a73-4f15-b5a2-391619f7421c",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "f0a64183-d857-40af-b70c-ba8be7c11c6c",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 1,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "cb19434f-0841-4d20-a2a8-ca9ca589510d",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "1960827f-e7ca-43c7-9970-2d3342947cf6",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "1f4d64e5-bb27-4927-85da-cf43bcd3d04c",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 2,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "c2afa2a6-893e-4ca2-9aff-687278d2b5f9",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 2,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "99809dfb-689c-46ef-9cf9-51aebdee2653",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "7406018a-f158-4edc-a7a8-d76db0566725",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "61ad5bcc-addc-43cc-888f-ec0c8634fac9",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "60ba1bc5-e3ca-486c-8be2-c07a1377b966",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 4,
+    "assumptions_made": 3,
+    "overall_correctness": 7
+  },
+  {
+    "problem_id": "a76b0575-e1bd-473a-811a-4da3c39dbeb2",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 5,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 8
+  },
+  {
+    "problem_id": "611401cc-2451-45fc-be96-3d3292caf17e",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 4,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 4,
+    "assumptions_made": 3,
+    "overall_correctness": 5
+  },
+  {
+    "problem_id": "1aae41e9-deb2-458b-8d79-0f162bda8148",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "fbb47602-b037-4c9c-bdbf-222416b50ee1",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "8854aa6e-328c-490a-8a99-aeef53dce7be",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "1760a291-675d-4ebd-bd70-db2e969a6162",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "48498e10-5180-4d5f-bc57-2af8e143334f",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "72874435-2ec0-4636-a6a5-9d00942ed2f3",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "c17f00b0-0552-4e3c-8876-329fec6de5e6",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "5f702ebb-7f31-4955-9b7d-ec0a5dbb2d1f",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "7309edda-2395-45e0-8e5b-1ab0ba62c7c2",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "cff86a6a-cb1f-4885-8e84-8920c74c4400",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "71df5fa8-41c9-45f9-9e8f-b134566311c2",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 4,
+    "completeness": 5,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 4,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "3d813b2d-69d3-4346-ab16-386073b9624b",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 2,
+    "completeness": 1,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 2,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "01ddedc4-f54c-4c3e-b530-394d2e107857",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "33a7ba2d-f3e2-44fe-9f8a-7dd361b2057a",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 4,
+    "overall_correctness": 9
+  },
+  {
+    "problem_id": "33403121-8d0e-45ec-a856-f08efcf420f1",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 1,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "e4e46982-c6d9-4f38-8a60-03a6d4037ebe",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "826e8d70-c6ec-4b90-a578-46d50cbbccde",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "374bf265-094d-46d3-9044-290c3954eb56",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 4,
+    "overall_correctness": 5
+  },
+  {
+    "problem_id": "37ff958c-14cf-4f0c-b027-90ab29de860b",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 2,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "01e73581-ef8a-4515-bcdb-ca678d9cff61",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "f807dda3-be79-4435-9fb1-b0aba0db4cdb",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 4,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 4,
+    "assumptions_made": 3,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "b7138b31-9891-41c5-ad1c-590d9829c57d",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "d7bef84e-ac30-4b3f-9e9a-cceb65964162",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 4,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 4,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "23fb50f5-fdc9-4d99-9d55-aa44a10f327b",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 3,
+    "completeness": 2,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "090e830a-49b4-4fe0-aa1e-7ecd4de02bfa",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "253420d1-21c2-4aef-ae10-8004a97abc71",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "ab8714b3-bcda-425c-818d-3553cc50a37f",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "f0abc506-1506-480e-a812-85ce9f454d60",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 4,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "139ee74a-b6cf-4037-b16b-e95cf35ad7e2",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "b26f1637-2cbe-428f-b79d-89158612d959",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "2fd05e53-0574-4f4f-93c5-54f68f3fa544",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 4,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 4,
+    "assumptions_made": 4,
+    "overall_correctness": 8
+  },
+  {
+    "problem_id": "2d5e6460-2e30-457b-902c-f1283f6f8e82",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "e3d73715-8f00-4b59-a04e-55a87d9bdb8f",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 3,
+    "completeness": 2,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "1ddf00b6-5a0c-40ff-aacf-fc21dfdee192",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 4,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 4,
+    "assumptions_made": 3,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "7494478d-6831-4741-a6f1-ba322962a010",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 4,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 5,
+    "assumptions_made": 4,
+    "overall_correctness": 8
+  },
+  {
+    "problem_id": "64a9f733-97dc-48c6-bad2-8710975b951e",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "84a035e3-4c98-42af-b5ee-ab6528ff830e",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "894c4a88-4547-4420-afc1-054d25dedd64",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 5,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 4,
+    "overall_correctness": 8
+  },
+  {
+    "problem_id": "e456e00c-a83b-4897-84b0-02fb699371d1",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "7cc54e26-b555-484d-8aff-b849fbea7fc5",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 4,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 4,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "72f835ea-26c7-494c-bec7-babf64fd2cd3",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "d033c8b0-998a-460a-9ad8-80c555afb707",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "9bf1ed44-ee52-41f5-85ad-594b3ed82c3d",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "3d05d133-c204-4c4e-a056-b3937be28f67",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "c18144fb-8bc6-4d13-9c03-4a2a7de8b5c5",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "ccb78969-2772-44d1-a4c9-6602f8bd95ce",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "88c0610d-1e14-4119-9d6e-abddd9bb47e6",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 4,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "a4d86e86-6111-44d2-bbda-bd5708b55fb1",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 5,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 4,
+    "overall_correctness": 8
+  },
+  {
+    "problem_id": "60eb9be8-c4aa-4ee9-8056-d38e46637130",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 4,
+    "assumptions_made": 5,
+    "overall_correctness": 5
+  },
+  {
+    "problem_id": "d2286a66-3309-4cb2-9809-e77607568122",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 4,
+    "overall_correctness": 9
+  },
+  {
+    "problem_id": "86bccb26-2598-4d14-a281-805c49281406",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 1,
+    "completeness": 2,
+    "clarity_and_coherence": 1,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "36b4b674-f997-458a-8fd4-67cfb0906dc0",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 9
+  },
+  {
+    "problem_id": "161c04bb-d4ef-422f-a40f-557ada207dd9",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "cfab0e1e-98d5-47e0-8d81-85499aa25878",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 2,
+    "completeness": 1,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 2,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "3104f2d7-4f78-47bf-a8ef-212f88d6e8f6",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 4,
+    "assumptions_made": 5,
+    "overall_correctness": 8
+  },
+  {
+    "problem_id": "8a6587ea-7c0b-4a3d-bcf6-62ed9112ebbc",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "0bfc657f-8155-4bbe-a3b2-b0f8996e70d8",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "c979223e-574a-404c-ae2f-3b09cc4c330e",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "7d44b53e-70ec-40be-a2b7-917902753361",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "f31a197d-117c-4b31-9ab9-0991b21a2320",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "dea7e413-777e-44b3-b028-8c500901031d",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "f4ea91b3-54cd-49f7-9d29-9d64de780147",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "b4ce97c3-5b69-48b4-ac55-db32183b4a66",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 3,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 4,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "d577c054-9000-4c70-b682-e04713840237",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 9
+  },
+  {
+    "problem_id": "43a611f8-ea54-47dc-aa78-1bd6054a850a",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "f405fa66-29e0-4b58-b7f4-df83d8da5ae6",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "0c7285ad-c468-43b2-97e1-25945b7225be",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "a97ce523-c9e6-4278-bcdd-521d3c6e0320",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "b7a7242a-921c-4645-bcdf-f965eda90e84",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 8
+  },
+  {
+    "problem_id": "c081a9b5-84de-42c9-b5ed-ac35d4c8a7f6",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 5,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 4,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "7e39cb2b-088c-4799-92ae-774891b2a7d0",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "e35f3620-bb79-4fb6-aee9-e2e7e7cb8071",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "3eca1562-9a53-4230-b549-6623619af6f2",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "ea4f2914-57b9-42d2-a2f6-fa73a960ddd6",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 3,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 3,
+    "assumptions_made": 3,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "19cd8dd3-2de8-40ed-a949-ca64d9157311",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "708319be-39a1-4113-89f4-42cecf9889ba",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 1,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "1e520940-7219-4b0d-b6a0-64a3e103a026",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "51afd6d9-8857-4d3a-974b-c6091baeb98c",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "5d46fb9d-7852-41f7-8b34-2acc9d8ec989",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "8de733fb-acc7-4843-93a6-3fecaf4be1f1",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 2,
+    "completeness": 4,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 4,
+    "assumptions_made": 5,
+    "overall_correctness": 5
+  },
+  {
+    "problem_id": "07672c73-fea5-42c3-bdd5-21814e1e8b1c",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "edc093f8-aa93-4d22-83a7-434c1fad56dc",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 4,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "00572039-e2ac-475a-aa7d-f1aca944bcdc",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "d9030cdf-db16-422f-86b6-03577eb56744",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 1,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "a00997eb-ffca-490e-b205-94ff258496e1",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 5,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 4,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "ea4e7b32-3115-4146-8533-a57b92b24dd9",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "bc3e3350-9385-4833-ac59-1e43ca0b3866",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 2,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "272fbb57-9f33-4bff-8db4-dcc690f7d4cc",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "2f793602-5461-4d39-b63b-b371cd473a90",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 4,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 5,
+    "assumptions_made": 4,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "cc89fa69-ca7f-44bb-9fdb-37e89a9b938e",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 4,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 4,
+    "assumptions_made": 3,
+    "overall_correctness": 5
+  },
+  {
+    "problem_id": "f994d8e7-4b9b-4fdb-b426-93dc1e2370c2",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 4,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 5,
+    "assumptions_made": 4,
+    "overall_correctness": 8
+  },
+  {
+    "problem_id": "09fa6492-2997-4f5d-8b49-54dcfb3a4603",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "9624b65d-3384-4a35-ab5d-0a6028573257",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 4,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 4,
+    "assumptions_made": 3,
+    "overall_correctness": 5
+  },
+  {
+    "problem_id": "ffe94fba-9601-44d4-8141-ec8b4ccfc21a",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "a6f64e0c-1eaa-443b-9f89-6ff5bbaac9e0",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "e993d08f-295b-4ea2-af19-574ba1515c4f",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 4,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 4,
+    "overall_correctness": 9
+  },
+  {
+    "problem_id": "ff19ded0-f5a5-4aa5-9adc-b29e90ab97d0",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 3,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "9e7bdb50-2b1a-4727-bb1d-f81b279528b4",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 5,
+    "completeness": 3,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 4,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "d2a61208-98bc-49e7-9a29-efda42bb9fcc",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "b4448c86-ee49-411d-afa6-5121ece48972",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "f1faf8c3-a40b-4f5c-853c-6d4a9cd09a88",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 3,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 5
+  },
+  {
+    "problem_id": "f019bc70-4f09-4d68-a902-9e49c9f7d088",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "513629bd-477d-4320-8ceb-1be32afb8faf",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "44338d60-7764-4c45-8138-0b9c8c5eb443",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "2b7d4bc7-3d02-4e91-a3e6-920d9fae2d48",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "f0426a09-3a99-4aac-83a2-745096efb9f7",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "7984c9eb-d2e1-4447-a89b-c5ec1f6d122d",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "4b92cf48-e360-4145-8282-dd385c230759",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "ca522a5a-352a-41c8-9b24-e1954f5116f5",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "fdefbc26-f2f1-41e0-a954-d594ab7a1fe2",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 1,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "0ef5f9fa-7f85-4651-9efa-9dd51976e998",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 3,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "e479b922-8b14-40ed-a2bc-c1e88e5ef3ba",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "98a9eaa9-717c-454d-a7f6-d98f84b19bad",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "cf4f874f-c00c-48d4-9e34-e7660104744a",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 3,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "f17b504e-a9f3-4b9c-a721-f9b1ef4dc6ee",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "de836d81-5be4-484e-a331-e4072b372051",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "611e415e-9cbd-4cb4-a1b4-9ed9c21932a5",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "115fc61f-5f57-42d8-8936-763c91a507dd",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "6844098a-befb-43fc-8425-957031c46373",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "8307fe6d-b6af-4087-b9a1-523ee2cb451b",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "a6b9b367-ca89-4418-8413-ddf1ae5f29dd",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "5fd2fbcb-7652-44ed-a31f-eba16fcb331e",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "e0babfbd-6565-404c-9c49-eba491e7ce44",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 1,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "5c7bcb16-1376-40bd-ba4a-b82a423ba40d",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 2,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "08af58b2-cefd-4819-b99c-6fdb8d7658a4",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "f5231329-deba-4ce4-86bf-7cbae7dde5ce",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 4,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 4,
+    "assumptions_made": 4,
+    "overall_correctness": 8
+  },
+  {
+    "problem_id": "1f363941-f766-4054-9513-c9f369ea951f",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "3d93ffa0-52c8-4a3c-9a36-282734497a1f",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 1,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "fe5f5ea5-4f66-4b2c-ba58-3b95019793e7",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 2,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "2f5f78b5-5808-4741-bfe8-9aaadcc5d739",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "e35e7295-4f31-402d-ac8e-14eeddd961f1",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "6eede84a-42cc-4b6b-988e-58f3f137575b",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 4,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 4,
+    "assumptions_made": 4,
+    "overall_correctness": 8
+  },
+  {
+    "problem_id": "22f53320-5882-478d-abcb-10d0538fbb05",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "5cda7a3e-97c9-4be5-888f-ae14e0bd8e1a",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "6f2112cf-cb88-4521-8212-5fa97f1c5e9a",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 2,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "e2101764-dd57-44b0-9de0-6b20ba02e48a",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 4,
+    "completeness": 5,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 4,
+    "assumptions_made": 5,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "eca23378-850f-4b35-a7ff-45053a85de12",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 3,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "1fb951c4-c2c2-44a1-84bc-190824b789a9",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "17933b27-c7e9-4ea0-b500-51518981de00",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 2,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "cee87baa-107d-40f8-a643-4343a8a078e5",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 1,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "4b1e23c7-8a54-451f-b947-2fd876df11a7",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 5,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "377b7467-4660-461b-a5a9-b0c47e51020d",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 3,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 3,
+    "assumptions_made": 3,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "7fd85db0-87a2-488c-b84b-25cb2d1083cd",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "9c80ece8-d930-46af-a84b-c1beb24b4f25",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "d1c0a2f1-feca-495b-8fac-68d01b0f4ad8",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 3,
+    "assumptions_made": 4,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "500fb92b-2f10-405d-a75f-9dffba6d6f28",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "1bf16cfd-c3c2-4a3d-8494-a45300a837f2",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "3cf334f0-e26f-4c99-a859-46c6eb0ecebf",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "a35773d1-d046-400c-9309-5ed535c3509a",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 1,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "66a4cb39-2edd-4f0d-b5a5-61126d80c46d",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 3,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "710dc01a-2d40-4b94-b9a3-81ee9b95bff5",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "c52fbb81-a858-41d9-b13a-192ed6af8220",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "e2068af0-46b8-4c54-b290-05bab4a83e68",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 3,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "4a36253e-6844-4210-b3dc-9d7603372a7e",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 9
+  },
+  {
+    "problem_id": "b4cc951e-b732-4e8f-b578-182210f7bb55",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "7c6bee90-9cc7-41ce-a788-850b9a207aa7",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "eb154e9e-99d0-43d1-8a40-db0a27d0505e",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 3,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "984d4695-1f43-434d-a4db-2f3021e471c5",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "9d1a0afc-7abd-42b7-aff0-8a8895dfd34f",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 5,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "d436a311-111a-4c4b-a9a6-416d0d011387",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 5,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "a4a97a05-bc8e-4c24-8099-1ec70b06f03c",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 4,
+    "completeness": 2,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 4,
+    "assumptions_made": 3,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "3c9ffaa2-957e-4a4d-95b0-328e5844e921",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "9a7890c1-e7e8-4bf7-bdc0-64bfbbeae1fa",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "24e916e6-b62c-4378-93c6-362a7beff7dd",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "bef963a7-971b-4e00-91b8-8d9af3023d5e",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 4,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 5,
+    "assumptions_made": 4,
+    "overall_correctness": 7
+  },
+  {
+    "problem_id": "4fc08365-afef-473f-a5f1-e70380f4044b",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "1c0d1fd4-1d5c-48d7-b1b9-2a0693bb6f04",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "e7c77d10-482e-44ad-9dce-82e7a20c4796",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "ba9af4fd-9568-4393-ae21-17ccc10eb6fa",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 5,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 8
+  },
+  {
+    "problem_id": "3d9ed56e-91ae-4402-9dd7-58ae5837cfd5",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "4e807d68-dd9c-48ec-96bb-137b6e1d28a3",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "b09cae60-b2b9-482d-812e-4bf7c7796660",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "04e8d3c6-a78a-4fb8-af5d-5a809e9bd491",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 5,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 4,
+    "overall_correctness": 8
+  },
+  {
+    "problem_id": "edbb076e-5dc7-4000-845f-a53773deac86",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 4,
+    "assumptions_made": 3,
+    "overall_correctness": 5
+  },
+  {
+    "problem_id": "6a2ee61f-3809-4495-b1f3-8338eea7759d",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 4,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 3,
+    "overall_correctness": 5
+  },
+  {
+    "problem_id": "741cc78d-13fa-4c73-a320-9dfd44dab8ac",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 2,
+    "completeness": 1,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "9dc2795f-f521-4649-bf88-2b7ebf11e428",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 4,
+    "overall_correctness": 9
+  },
+  {
+    "problem_id": "7f7bdde2-b9b0-47f0-b4d5-31dc72d451c3",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "4600e268-3f7f-4e4a-9cb2-d9ef90ca79e1",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "3d3d219d-edd1-4932-b4c8-937cbf062372",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 9
+  },
+  {
+    "problem_id": "262d76b2-c784-4e47-8649-f932bebc4f3e",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "2e5aaddd-1bdc-4349-9866-be39aa271b90",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "a48b7e63-21ec-424f-8007-9d28f46d74a2",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "671fda64-6122-45d4-a450-b39195c7767e",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 3,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 5
+  },
+  {
+    "problem_id": "a20f5389-32d7-4103-ad62-5c4dec5eea80",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 4,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 4,
+    "assumptions_made": 4,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "873be901-38a4-454b-aee2-20fa3519fa43",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 4,
+    "overall_correctness": 5
+  },
+  {
+    "problem_id": "c113cc0c-e161-4d61-8f8f-7a2c9aa0f172",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "d9e077a2-e0f7-4980-88fa-10092b8efe54",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "e5d9842b-07ef-4e60-b188-4c951fe9a5b9",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "0ab69585-c461-449e-9c51-d5761f00069a",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 9
+  },
+  {
+    "problem_id": "4e3bcfbf-3a9c-4ccb-b38b-2747863e1ab1",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 4,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "66684737-fbb9-47e7-a7cb-ca5408b68635",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 4,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 4,
+    "assumptions_made": 4,
+    "overall_correctness": 8
+  },
+  {
+    "problem_id": "22e92ef8-1aca-49a3-b3f5-384ab37b92f3",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "4efe214c-cc3d-424e-8965-cf7eb2a3eb06",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 1,
+    "clarity_and_coherence": 1,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 0
+  },
+  {
+    "problem_id": "368037f2-33d4-4e78-9409-47bcce2c9139",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "164b5f9e-17d2-401b-bc35-aafc852d9326",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "075071db-4097-45dd-ac88-289620fd296f",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 5,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 4,
+    "overall_correctness": 8
+  },
+  {
+    "problem_id": "d63f5c22-7758-4351-87b5-e7159409532e",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "dcfd9cae-adb4-4149-9f86-cdda8e4d5a19",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 3,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 4,
+    "assumptions_made": 3,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "e51e4d9e-1655-4311-a740-02911e1a4326",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "8f74a6ca-960d-48ac-8dd0-e3afd31da5aa",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 3,
+    "overall_correctness": 5
+  },
+  {
+    "problem_id": "e27bfe59-4f6a-4507-aec4-3689df18f172",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 4,
+    "overall_correctness": 5
+  },
+  {
+    "problem_id": "06a78278-1b46-4033-9e7a-3adc08708889",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "eea51143-5bd6-4cb6-8384-460d749695fa",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 3,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "f41d883c-a08e-42a7-9aab-31553719b23a",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 4,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 3,
+    "assumptions_made": 3,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "88ddcd86-b951-487f-8858-53957c7423c8",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "5b899c2f-bd29-4220-9aec-b078a52e771c",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "fd7ce475-8047-43be-a86c-d9ff19d791d9",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 2,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "53321db0-a1c6-4c48-b479-eb487afbda0b",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 3,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "90fd164a-425c-408a-b575-298ff9218136",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 4,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 4,
+    "overall_correctness": 8
+  },
+  {
+    "problem_id": "035d8396-74e4-409c-aef0-4bfca88b12d5",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 2,
+    "completeness": 5,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "f5927bde-155e-461c-a1c0-a857234ed036",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "6a7bab16-39cb-43b7-8013-fd296836e9e0",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "5294fd05-db6f-4156-8bad-83a5c113a10c",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "fe2ddb1d-8c39-4e94-b1bd-603eebab7063",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "3e1613e1-d0d8-4dd7-9ef4-94bddc19691c",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "1a731dd3-ed40-478c-ac29-75fb9cc0f8a2",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "94abf60f-65e7-4cea-9af6-99fed4e218a3",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "fcfb1134-3c9b-4cb6-b868-46c1745da3f1",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 1,
+    "clarity_and_coherence": 1,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "c8b4e5c5-e51a-4fdc-8bc0-538d147753a5",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "de66218d-8119-4038-8246-3bb0c24b2476",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "69edcba3-604b-41e7-b05c-d5c37fa0762d",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "449c6290-af9c-44a1-af53-577671461fe5",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "1ae6cf83-adaf-4928-b234-3706aba4b6b0",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "cffbb1bf-70b5-471b-a240-57a09e47c348",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 2,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "ebf58daf-c7df-4a4d-9fc1-9a9c6dcf65e1",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 4,
+    "assumptions_made": 3,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "f25ed878-71ee-438e-91ec-765701f55b94",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 4,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 4,
+    "assumptions_made": 5,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "7fb285bb-533f-4c97-bd7b-bf388933ce83",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "35d986fd-ce8c-40b9-b661-45c8b8f76ba6",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "4a6772bc-9d61-47f6-a021-9bbd591c993e",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "177498c1-f761-4551-bfc9-bb088eebc68a",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "4339efd1-2326-4425-874e-3cb2d037b732",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "24dba691-a8db-4bf9-a50d-9903e82ff591",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "d4a36dee-8bd1-4908-a6b8-23ba996a57af",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "fde637a1-7be4-4ec3-9a0b-985d1a5d4ab0",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 1,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 0
+  },
+  {
+    "problem_id": "2004c44f-55e4-4632-9902-95fd65b7ac4c",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "7a3c622b-a6c9-4b0d-a3b1-e5c9868dbaf5",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "0b81c814-ee0a-4f75-bffa-218a66df6a58",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 3,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "6a1cf504-8565-434b-a6eb-59a0fa08201e",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "57221288-9d05-4211-a1a0-ec904931b82b",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 2,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "f942e1a0-500c-422f-af13-6877ba5c2c50",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "23932b74-c840-4922-ab06-90c100925f98",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 1,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "01309abd-1605-4fe8-8a40-cff1667dac66",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "3eae8fde-e64a-46bf-92b9-91358d7fe3cf",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "d8eb36c4-89eb-44eb-b528-6788fbb3a59c",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "02381f00-4f58-44d5-9f7a-586c731be61f",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 4,
+    "completeness": 5,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 4,
+    "assumptions_made": 4,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "f5793e48-10d5-47ea-b4fa-9a09db4ccd9d",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "de8c4ffb-2325-424d-a98e-51afa095bdc5",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 3,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 3,
+    "assumptions_made": 3,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "e26b8154-cf94-46dd-93e1-b5f9d2fa7fe3",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 3,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "bcb84435-edaf-468c-a2bb-dafe69caad8e",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 4,
+    "assumptions_made": 4,
+    "overall_correctness": 9
+  },
+  {
+    "problem_id": "f6275b52-a678-4217-a64a-7c183464b70c",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 4,
+    "completeness": 5,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 5,
+    "assumptions_made": 4,
+    "overall_correctness": 9
+  },
+  {
+    "problem_id": "a706169a-71ce-42c2-a586-7a629158ac1b",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "ec32fccf-5604-4f43-b374-f728915f0c4d",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "8f15ba47-405b-4f95-a3f8-2440b202d597",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 2,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 3,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "e9e4e43d-0039-468f-946c-363bbd40975b",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "7a18cd4a-1f93-4fd9-a5b5-63a5b0032733",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 4,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 4,
+    "assumptions_made": 4,
+    "overall_correctness": 7
+  },
+  {
+    "problem_id": "0631059d-2b14-4fb5-8036-69face23c6c3",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "a184c474-c0cb-4d26-8047-364692392171",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 1,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 0
+  },
+  {
+    "problem_id": "75f3b164-64dc-488f-9ee1-040b646988ca",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "98833ab8-ba05-4c60-8fa9-97bb72335a59",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "82e69f1a-e464-4a78-a23a-8906fdad8500",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "66fe4833-38ce-440d-9598-cd1830a2a13a",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 3,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "0997bb9f-b80a-4955-bf26-52bd8ec685b0",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 4,
+    "completeness": 4,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 4,
+    "assumptions_made": 4,
+    "overall_correctness": 8
+  },
+  {
+    "problem_id": "5bc152d9-5364-46d6-aad2-12222eb8a0fb",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 1,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 0
+  },
+  {
+    "problem_id": "5060e366-eaa0-4309-a9ee-0da248bca7d2",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "28cdde5e-57ce-436a-bd81-e50598678264",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "2d256954-98d4-4c05-ac87-766fe1c18b48",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "cb5e022e-3bfd-4dad-918c-806af0e0525f",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "4a2535a2-6b87-4145-9bd5-b3d68da337fc",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "c9ca3161-0728-459b-8740-9065b8bf2a07",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "3ee3bde3-03bc-4d17-bbbc-1d89163d4be8",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 2,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "64b9a3c6-b3be-4922-9fb8-a4b7ceed9cee",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "b31cb2c1-530f-4cbd-9b4c-40b12d05e6e9",
+    "mathematical_accuracy": 4,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 4,
+    "assumptions_made": 5,
+    "overall_correctness": 9
+  },
+  {
+    "problem_id": "d35b8fb6-7e71-411f-a5c9-5151fd7a1c66",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 1,
+    "completeness": 2,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "af927bcd-6333-4345-a2a0-d15fac3b8048",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 3,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 3,
+    "overall_correctness": 5
+  },
+  {
+    "problem_id": "608201e8-f4ee-43e9-8514-5b386396d3b9",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 2,
+    "completeness": 4,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 4,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "f2a828c1-4349-4ffc-aa2e-57985eff722f",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "a5abaad1-4599-4154-96fb-0a5921e762de",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 3,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "344886c8-aaf4-4292-8216-c9136dbaed19",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 3,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 3,
+    "assumptions_made": 3,
+    "overall_correctness": 5
+  },
+  {
+    "problem_id": "909aff93-5485-409c-9fa9-a2988b148532",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 1,
+    "clarity_and_coherence": 1,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "76079fe8-50d7-4362-8fd4-3f952de8eda3",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "1c8323d1-1c66-4bfa-9975-3dabc78b20ee",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 2,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "ddda009f-27c3-4f3e-b6f8-86cef1630d42",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "5cdb3786-3a31-43ff-bc42-97c2e646da43",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "6c05c6d7-05c1-40e0-8e9a-f47ae6364814",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "3ab5d55c-19dd-4065-9b03-dd2624416602",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "068bf771-01dd-4209-93ad-6bc85a95a3f0",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "113dadf3-66c3-4056-90b7-1ef585cf4483",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "b45c86ce-cbfd-4511-8e05-4fcd8c39d758",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "68c4cd02-723d-4159-a575-ef5fa441705d",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "0db6098e-bfd1-4b67-86d1-cf573deb9ccc",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "8c158b96-cb8a-421b-9aad-9d35ba65d5e8",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "22c701fe-6a46-4904-af96-d77485d7c17e",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "46c25ed8-14d2-4911-b5ae-3afd30acb350",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "666de465-7f40-479f-8e7d-122f05650088",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 2,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 3
+  },
+  {
+    "problem_id": "885db531-9805-41eb-9904-93198ad59653",
+    "mathematical_accuracy": 3,
+    "logical_consistency": 4,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 4,
+    "assumptions_made": 5,
+    "overall_correctness": 6
+  },
+  {
+    "problem_id": "6374b475-16ee-407c-85e9-387f2fcc18c1",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "7e66acf7-1d14-4b30-9cc6-c3260d42be8f",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "a0c3416f-29e8-48d8-9838-bd3aa6690589",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 2,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 2
+  }
+]
