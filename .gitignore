@@ -1,0 +1,5 @@
+/venv
+.env
+PhysReason_full/
+PhysReason-mini/
+camel-physics.parquet

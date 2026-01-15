@@ -1,0 +1,62 @@
+[
+  {
+    "problem_id": "010e7e8d-e9e0-4c65-a51b-9a906b13b160",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 3,
+    "completeness": 3,
+    "clarity_and_coherence": 4,
+    "formulas_principles": 2,
+    "assumptions_made": 3,
+    "overall_correctness": 4
+  },
+  {
+    "problem_id": "812b76e0-1233-4840-ac99-ff448e2aefde",
+    "mathematical_accuracy": 5,
+    "logical_consistency": 5,
+    "completeness": 5,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 5,
+    "assumptions_made": 5,
+    "overall_correctness": 10
+  },
+  {
+    "problem_id": "b1d9aca6-5e09-48c3-85e3-a796c7fd0e90",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  },
+  {
+    "problem_id": "5ae3f3f6-82a1-40cf-8887-ca0c76724f8c",
+    "mathematical_accuracy": 2,
+    "logical_consistency": 4,
+    "completeness": 3,
+    "clarity_and_coherence": 5,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "c2b9f498-d673-4429-85e9-8bbbc0c8fcb0",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 3,
+    "completeness": 2,
+    "clarity_and_coherence": 3,
+    "formulas_principles": 2,
+    "assumptions_made": 2,
+    "overall_correctness": 2
+  },
+  {
+    "problem_id": "451dcaf9-3155-465a-ba7b-373fad376519",
+    "mathematical_accuracy": 1,
+    "logical_consistency": 1,
+    "completeness": 2,
+    "clarity_and_coherence": 1,
+    "formulas_principles": 1,
+    "assumptions_made": 1,
+    "overall_correctness": 1
+  }
+]
